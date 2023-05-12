@@ -1,0 +1,20 @@
+.title{
+    background-color: cornflowerblue;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-color: coral;
+}
+
+.online{
+    background-color: aquamarine;
+    width: 10%; 
+}
+
+.offline{
+    width: 10%; 
+    background-color: darksalmon;
+}

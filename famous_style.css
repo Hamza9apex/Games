@@ -1,0 +1,22 @@
+.title{
+    background-color: blueviolet;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.online{
+    background-color: hotpink;
+    width: 10%; 
+
+}
+
+.offline{
+    background-color: darkorange;
+    width: 20%;
+
+}
